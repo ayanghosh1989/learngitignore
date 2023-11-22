@@ -5,3 +5,5 @@ newfile.txt
 bin/ 
 
 
+# Ignore all file with .tmp 
+*.tmp
