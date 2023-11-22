@@ -1,1 +1,7 @@
+# Ignore single file 
 newfile.txt
+
+# Ignore all file in bin folder 
+bin/ 
+
+
